@@ -3,7 +3,7 @@ name: CI-BondarB
 env:
   IMAGE_NAME: docker-test-Bondar
 
-on: [pull_request, push]
+on: [pull_request, push ]
 
 jobs:
 
